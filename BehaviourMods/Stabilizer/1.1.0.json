@@ -14,7 +14,7 @@
     "Deli": "^0.3.0"
   },
   "InstallationSteps": [
-    "extract $GAME_DIR\\Mods"
+    "extract $GAME_DIR\Deli\mods"
   ],
   "IsBeta": false
 }
